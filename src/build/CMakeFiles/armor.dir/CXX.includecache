@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lunar/pythonFiles/pythonVM/src/object/PyInteger.cpp
+PyInteger.hpp
+/home/lunar/pythonFiles/pythonVM/src/object/PyInteger.hpp
+stdio.h
+-
+
+/home/lunar/pythonFiles/pythonVM/src/object/PyInteger.hpp
+PyObject.hpp
+/home/lunar/pythonFiles/pythonVM/src/object/PyObject.hpp
+
+/home/lunar/pythonFiles/pythonVM/src/object/PyObject.hpp
+

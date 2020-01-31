@@ -1,0 +1,3 @@
+/home/lunar/pythonFiles/pythonVM/src/build/CMakeFiles/rebuild_cache.dir
+/home/lunar/pythonFiles/pythonVM/src/build/CMakeFiles/edit_cache.dir
+/home/lunar/pythonFiles/pythonVM/src/build/CMakeFiles/armor.dir
